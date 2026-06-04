@@ -78,6 +78,9 @@ export const metadata: Metadata = {
     apple: '/apple-touch-icon.png',
     shortcut: '/favicon.ico',
   },
+  verification: {
+    google: 'vFlzN0BRv7Z12zZO1-7QxMCn8eONEF4IuhY1SGQXqR0',
+  },
   category: 'education',
 }
 
