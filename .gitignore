@@ -1,0 +1,35 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Environment — NEVER commit these
+.env
+.env.local
+.env.*.local
+
+# Next.js build
+.next/
+out/
+
+# Production
+build/
+dist/
+
+# Cache
+.cache/
+*.log
+npm-debug.log*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+
+# TypeScript
+*.tsbuildinfo
+next-env.d.ts
